@@ -1,0 +1,10 @@
+
+/* Estilo personalizado */
+.card-title {
+  font-family: 'Anton', sans-serif;
+  color: #007FFF;
+}
+.btn-primary {
+  background-color: #007FFF;
+  border: none;
+}
